@@ -7,7 +7,7 @@
     <v-spacer></v-spacer>
     <v-btn text ref="homeBtn" @click="scroll('home') " class="text-yellow">Home</v-btn>
     <v-btn text ref="aboutBtn" @click="scroll('about')">About</v-btn>
-    <v-btn text ref="projectBtn" @click="scroll('project')">Project</v-btn>
+    <v-btn text ref="projectBtn" @click="scroll('project')">Projects</v-btn>
     <v-btn text ref="contactBtn" @click="scroll('contact')">Contact</v-btn>
   </v-app-bar>
 </template>

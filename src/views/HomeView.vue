@@ -6,7 +6,7 @@
         <v-row>
           <v-col cols="5">
             <div style="position: relative" class="mt-16">
-              <h1 class="text-gray">Hello,</h1>
+              <h1 class="text-yellow">Hello!</h1>
               <h1 class="text-gray">I'm Panupong Yapradith</h1>
               <span class="text-gray">Full-Stack Developer</span><br />
               <v-btn
@@ -89,7 +89,7 @@
       
       <v-col cols="12" sm="12" id="project">
         <div class="d-flex justify-center mb-6">
-          <v-btn color="#FBDF7E" class="mr-2">Project</v-btn>
+          <v-btn color="#FBDF7E" class="mr-2">Projects</v-btn>
         </div>
       </v-col>
       <v-col cols="12" class="imgHover mb-16">
